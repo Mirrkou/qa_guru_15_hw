@@ -14,5 +14,4 @@ public class ApiTest {
         assertThat(apiConfig.baseUrl()).isEqualTo("https://github.com/Mirrkou");
         assertThat(apiConfig.token()).isEqualTo("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");
     }
-
 }

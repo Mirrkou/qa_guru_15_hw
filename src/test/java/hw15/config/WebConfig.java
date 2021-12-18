@@ -16,5 +16,4 @@ public interface WebConfig extends Config{
 
     @Key("remote.url")
     String remoteUrl();
-
 }
